@@ -83,7 +83,7 @@ First 10 rows
 ---
 ## 🔎  Explore data and test model
 
-### The Process is following - [Code & Presentation](https://github.com/beto1810/Predictors-of-mental-health-illness/blob/main/Explore%20data%20and%20test%20model.md#1%EF%B8%8F%E2%83%A3-explore-data-analysis) or [Only Code](https://github.com/beto1810/Predictors-of-mental-health-illness/blob/main/File/Final_Mindx_De1%20(2).ipynb)
+### The Process is following - [Code & Presentation](https://github.com/anhtuan0811/Mental-Health/blob/main/EDA%20and%20Machine%20Learning.md) or [Only Code](https://github.com/anhtuan0811/Mental-Health/blob/main/Mental_Health_Project.ipynb)
 
 - Import Library and dataset
 - Explore data
