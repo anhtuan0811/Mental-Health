@@ -87,9 +87,9 @@ First 10 rows
 
 - Import Library and dataset
 - Explore data
-- Preprocessing - Encoding
-- Covariance Matrix
 - Relationship Charts
+- Encoding  
+- Correlation Matrix
 - Scaling & Fitting
 - Tuning
 - Evaluate Model
