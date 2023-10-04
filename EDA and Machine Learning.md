@@ -890,7 +890,7 @@ Because the result showed that Decision Tree, RandomForest,Bagging have the same
 <details><summary> Code here </summary>
 
 ```python
-#Because the result showed that Decision Tree, RandomForest,Bagging have the same result. So we can use the decision Tree with best parameters for saving time but still get the best result
+#Because the result showed that RandomForest, DecisionTree, SVC, GradientBoosting have the same result. So we can use the decision Tree with best parameters 
 model = DecisionTreeClassifier(min_samples_split= 7, min_samples_leaf= 7, max_features= 17, max_depth = 2, criterion = 'gini')
 
 model.fit(X_train, y_train)
