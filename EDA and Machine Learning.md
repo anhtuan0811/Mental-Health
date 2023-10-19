@@ -495,7 +495,7 @@ plt.show()
  
 ---
 
-### 5️⃣ Fitting ModelModel
+### 5️⃣ Fitting Model
 
 <details><summary> Splitting Dataset  </summary> 
 <br>
